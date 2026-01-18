@@ -1,5 +1,3 @@
-// À faire : implémenter un bot simple, détection de pat, nulle par accord mutuel, répétition de position, règle des 50 coups, détection des positions de nulle par manque de matériel (ex. Roi vs Roi, Roi+Fou vs Roi, etc.).
-// Remarques : implémenter d'abord les règles de base d'échecs (incomplètes)
 // string.h et stdio.h pour printf, fgets, strcmp, strlen pour remplacer scanf et gérer les entrées plus simple avec if
 #include <stdio.h>
 #include <string.h>
@@ -402,3 +400,4 @@ int main(){
     return 0;
 }
 // met rien apres main ca boeug sais pas pourquoi
+
